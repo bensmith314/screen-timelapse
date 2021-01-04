@@ -1,1 +1,3 @@
-images/
+images/*
+/framenumber.txt
+/isRunning.txt
